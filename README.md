@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LordGurr
 - 👀 I’m interested in c# and c++
-- 🌱 I’m currently learning game development and c# programming
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning game development and c# programming. Right now i'm working with monogame and unity
+- 💞️ I’m looking to collaborate on something interesting that isn't too grueling or over my head.
 - 📫 How to reach me ...
 
 <!---
