@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning game development and c# programming. Right now i'm working with monogame and unity
 - 💞️ I’m looking to collaborate on something interesting that isn't too grueling or over my head.
 
-I'm currently studying my first year of game development and have some c# and c++ knowledge.
+I'm currently studying my second year of game development and have some c# and c++ knowledge.
 
 <!---
 LordGurr/LordGurr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
